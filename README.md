@@ -37,7 +37,7 @@
         </div>
         <div id="contato">
             <h3>Contato:</h3>
-            <p>☎️(31) 9 7120-5373<br/>
+            <p>☎️(21) 9 85669333<br/>
            📧 bruno.impulse3@hotmail.com</p>  
         </div>
     </section>
