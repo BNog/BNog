@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Portfólio</title>
-    <style>
-        body {
-            background-color: rgb(44, 44, 44);
-            color: white;
-            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        }
-
-        header {
-            text-align: center;
-        }
-
-        img {
-            border-radius: 60%;
-        }
-    </style>
-</head>
-
-<body>
-    <header>
-        <h1>Olá, sou o Luiz Feitosa!</h1>
+<h1>Olá, sou o Luiz Feitosa!</h1>
         <h2>E este, é o meu portfólio!</h2>
     </header>
     <section>
@@ -68,9 +41,6 @@
             Email: feitosamec@gmail.com</p>  
         </div>
     </section>
-</body>
-
-</html>
 
 <div>
     <a href="https://github.com/BNog">
