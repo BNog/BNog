@@ -38,7 +38,7 @@
         <div id="contato">
             <h3>Contato:</h3>
             <p>Telefone: (31) 9 7120-5373<br/>
-            Email: feitosamec@gmail.com</p>  
+           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" bruno.impulse3@hotmail.com</p>  
         </div>
     </section>
 
