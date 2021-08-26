@@ -7,21 +7,22 @@
                 <h3>Índice:</h3>
             </ul>
             <li><a href="#sobre">Sobre mim</a></li>
-            <li><a href=".habilidades">Habilidades</a></li>
+            <li><a href="#habilidades">Habilidades</a></li>
             <li><a href="#contato">Contato</a></li>
             </p>
         </div>
-        <div id="imagem">
             <p>
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img width="250px" src="https://image.prntscr.com/image/itN_J_5XRYSXGY-qh500iQ.png" alt="foto de Bruno Nogueira" />
             </p>
+        <div id="habilidades">
         </div>
         <hr>
-        <div id="">
+        <div>
             <h3>Sobre mim:</h3>
             <p>Meu nome é Bruno Gomes Nogueira, tenho 22 anos, Brasileiro e natural de Rio de Janeiro/RJ. Ex militar da Marinha do Brasil, Atualmente trabalho como motorista de aplicativos, apaixonado por tecnologia e estudante de Desenvolvimento de Software na Universidade Estácio de Sá. </p>
         </div>
-        <div class="habilidades">
+        <div>
+                 <div id="contato">
                 <hr>
             <h3>Habilidades:</h3>
         <img src="https://i.ibb.co/7bMtysw/bruno2.png" width="100px"> &nbsp; &nbsp;
@@ -34,7 +35,7 @@
             Compreensão<br/>
             Proatividade</p>
         </div>
-        <div id="contato">
+        <div id>
                 <hr>
             <h3>Contato:</h3>
         <div>
