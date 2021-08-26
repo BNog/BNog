@@ -29,12 +29,6 @@
             Comunicação<br/>
             Compreensão</p>
         </div>
-        <div id="links">
-            <h3>Links:</h3>
-            <p><a href="https://www.instagram.com/feitous/" target="_blank">Instagram</a><br/>
-            Linkedin (em breve)
-            </p>
-        </div>
         <div id="contato">
             <h3>Contato:</h3>
         <div>
