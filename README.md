@@ -11,9 +11,6 @@
             <li><a href="#contato">Contato</a></li>
             </p>
         </div>
-            <p>
-               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img width="250px" src="https://image.prntscr.com/image/itN_J_5XRYSXGY-qh500iQ.png" alt="foto de Bruno Nogueira" />
-            </p>
         <div id="habilidades">
         </div>
         <hr>
