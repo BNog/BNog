@@ -10,22 +10,21 @@
             <li><a href="#sobre">Sobre mim</a></li>
             <li><a href="#habilidades">Habilidades</a></li>
             <li><a href="#contato">Contato</a></li>
-            <li><a href="https://image.prntscr.com/image/itN_J_5XRYSXGY-qh500iQ.png" target="_blank">Foto</a></li>
             </p>
         </div>
         <div id="imagem">
             <p>
-                <img width="200px" src="https://image.prntscr.com/image/itN_J_5XRYSXGY-qh500iQ.png" alt="foto de Bruno Nogueira" />
+                <img width="250px" src="https://image.prntscr.com/image/itN_J_5XRYSXGY-qh500iQ.png" alt="foto de Bruno Nogueira" />
             </p>
         </div>
         <div id="sobre">
             <h3>Sobre mim:</h3>
-            <p>Meu nome é Luiz Felipe Martins Feitosa, tenho 23 anos, Brasileiro e natural de São Paulo/SP. Atualmente moro em uma pequena cidade no interior do norte de Minas Gerais chamada Berizal, com pouco mais de 5000 habitantes. Apaixonado por tecnologia e estudante de Desenvolvimento de Software na Trybe. </p>
+            <p>Meu nome é Bruno Gomes Nogueira, tenho 22 anos, Brasileiro e natural de Rio de Janeiro/RJ. Ex militar da Marinha do Brasil, Atualmente trabalho como motorista de aplicativos, apaixonado por tecnologia e estudante de Desenvolvimento de Software na Universidade Estácio de Sá. </p>
         </div>
         <div id="habilidades">
             <h3>Habilidades:</h3>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="50px">
-        <img src="https://w7.pngwing.com/pngs/175/261/png-transparent-web-development-html-css-design-and-build-web-sites-cascading-style-sheets-world-wide-web-blue-web-design-text.png" width="150px">
+        <img src="https://img2.gratispng.com/20180406/uew/kisspng-cascading-style-sheets-javascript-html-css3-jquery-logo-5ac78cfa148694.1772279515230271940841.jpg" width="150px">
         </div>
         <div id="contato">
             <h3>Contato:</h3>
