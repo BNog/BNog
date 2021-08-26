@@ -1,4 +1,4 @@
-<h1>Olá, sou o Bruno Nogueira!</h1>
+<h1 style="text-align:center">Olá, sou o Bruno Nogueira!</h1>
         <h2>E este, é o meu portfólio!</h2>
     </header>
     <section>
