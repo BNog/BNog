@@ -25,6 +25,7 @@
         <div id="habilidades">
             <h3>Habilidades:</h3>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="50px">
+        <img src="https://w7.pngwing.com/pngs/175/261/png-transparent-web-development-html-css-design-and-build-web-sites-cascading-style-sheets-world-wide-web-blue-web-design-text.png" width="50px">
         </div>
         <div id="contato">
             <h3>Contato:</h3>
