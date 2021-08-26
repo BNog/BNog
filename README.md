@@ -1,4 +1,4 @@
-<h1>Olá, sou o Luiz Feitosa!</h1>
+<h1>Olá, sou o Bruno Nogueira!</h1>
         <h2>E este, é o meu portfólio!</h2>
     </header>
     <section>
@@ -15,7 +15,7 @@
         </div>
         <div id="imagem">
             <p>
-                <img width="200px" src="luiz-feitosa.jpeg" alt="foto do aluno Luiz Feitosa" />
+                <img width="200px" src="https://prnt.sc/1qiunss" alt="foto de Bruno Nogueira" />
             </p>
         </div>
         <div id="sobre">
