@@ -31,7 +31,7 @@
         <div id="contato">
             <h3>Contato:</h3>
         <div>
-                <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="100px">
     <a href="https://www.linkedin.com/in/bruno-nogueira-071900181/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
             <p>☎️<a href="tel:21985669333">(21) 9 8566-9333</a><br/>
