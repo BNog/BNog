@@ -40,7 +40,7 @@
         <div>
     <a href="https://www.linkedin.com/in/bruno-nogueira-071900181/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-            <p>☎️<a onClick="tel:21985669333">21985669333</a><br/>
+            <p>☎️<a href="tel:21985669333">21985669333</a><br/>
            📧 bruno.impulse3@hotmail.com</p>  
         </div>
     </section>
