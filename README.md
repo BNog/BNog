@@ -9,7 +9,6 @@
             </ul>
             <li><a href="#sobre">Sobre mim</a></li>
             <li><a href="#habilidades">Habilidades</a></li>
-            <li><a href="#links">Links</a></li>
             <li><a href="#contato">Contato</a></li>
             <li><a href="luiz-feitosa.jpeg" target="_blank">Foto</a></li>
             </p>
