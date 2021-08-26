@@ -10,12 +10,12 @@
             <li><a href="#sobre">Sobre mim</a></li>
             <li><a href="#habilidades">Habilidades</a></li>
             <li><a href="#contato">Contato</a></li>
-            <li><a href="luiz-feitosa.jpeg" target="_blank">Foto</a></li>
+            <li><a href="https://image.prntscr.com/image/itN_J_5XRYSXGY-qh500iQ.png" target="_blank">Foto</a></li>
             </p>
         </div>
         <div id="imagem">
             <p>
-                <img width="200px" src="https://prnt.sc/1qiunss" alt="foto de Bruno Nogueira" />
+                <img width="200px" src="https://image.prntscr.com/image/itN_J_5XRYSXGY-qh500iQ.png" alt="foto de Bruno Nogueira" />
             </p>
         </div>
         <div id="sobre">
